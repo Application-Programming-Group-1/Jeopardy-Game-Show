@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/16" fx:controller="application.JeopardyController">
+   <children>
+      <AnchorPane prefHeight="225.0" prefWidth="275.0">
+         <children>
+            <Button fx:id="btn" layoutX="105.0" layoutY="63.0" mnemonicParsing="false" onAction="#sayHello" text="Say Hello" />
+            <Label fx:id="label" layoutX="124.0" layoutY="128.0" text="Text" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

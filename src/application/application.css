@@ -1,0 +1,17 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#lab
+{
+	-fx-font-size:30px;
+	-fx-background-color:blue;
+	-fx-padding:6 6 6 6;
+}
+#btn
+{
+	-fx-font-size:30px;
+	-fx-padding:6 6 6 6;
+	-fx-background-color:green
+}
+.root
+{
+	-fx-background-color:pink;
+}
